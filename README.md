@@ -8,8 +8,8 @@
 </p>
 
 ### Contact me
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoi-nguyen-ios)
-[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenkhoi2190@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoi-nguyen-ios)
+[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:nguyenkhoi2190@gmail.com)
 
 ### Badges
 
