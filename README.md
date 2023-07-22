@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Khoi
-I make mobile apps and looking for freelance job
+I make mobile apps and looking for freelance job!!
 ### Skills
 
 <p align="left">
