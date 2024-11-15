@@ -18,5 +18,6 @@ I make mobile apps and am looking for a freelance job!!
 <a href="http://www.github.com/knn90"><img src="https://github-readme-stats.vercel.app/api?username=knn90&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="knn90's GitHub stats" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=knn90&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=knn90&theme=dark)](https://git.io/streak-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknn90%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
