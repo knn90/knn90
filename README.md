@@ -6,10 +6,10 @@ Throughout my career, I've worked with a variety of modern frameworks like Swift
 
 ### 🌟 Skills:
 
-Languages: Swift, Objective-C
-Frameworks: SwiftUI, Combine, UIKit
-Tools: Xcode, Git, Firebase
-Methodologies: TDD, Agile/Scrum
+- Languages: Swift, Objective-C
+- Frameworks: SwiftUI, Combine, UIKit
+- Tools: Xcode, Git, Firebase
+- Methodologies: TDD, Agile/Scrum
 
 ### 💼 Work with Me:
 I am always open to exciting new opportunities and collaborations. If you're looking for a developer who can contribute to your team’s success with top-notch software solutions, feel free to reach out!
